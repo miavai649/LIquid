@@ -43,13 +43,6 @@
           "settings": {
           }
         },
-        "75360ede-4193-42d6-9154-e3b9eea41dde": {
-          "type": "shopify:\/\/apps\/noor-app-pro\/blocks\/star_rating\/f68c37e1-5095-46a2-a3be-836f36001a3c",
-          "settings": {
-            "product": "{{product}}",
-            "colour": "#ff0000"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -113,7 +106,6 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "75360ede-4193-42d6-9154-e3b9eea41dde",
         "buy_buttons",
         "description",
         "collapsible-row-0",
