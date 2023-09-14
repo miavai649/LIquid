@@ -131,6 +131,18 @@
     },
     "1693978876e0b18045": {
       "type": "apps",
+      "blocks": {
+        "a7e409c7-b56d-4507-8cd4-b28a84d0ae22": {
+          "type": "shopify:\/\/apps\/noor-app-pro\/blocks\/write_review\/f68c37e1-5095-46a2-a3be-836f36001a3c",
+          "settings": {
+            "write_review": "{{product}}",
+            "write_review_colour": "#87CEEB"
+          }
+        }
+      },
+      "block_order": [
+        "a7e409c7-b56d-4507-8cd4-b28a84d0ae22"
+      ],
       "settings": {
         "include_margins": true
       }
