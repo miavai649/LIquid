@@ -15,11 +15,6 @@
           "settings": {
           }
         },
-        "opinew-stars-plugin-product": {
-          "type": "shopify:\/\/apps\/opinew-product-reviews-app\/blocks\/product-stars\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
-          "settings": {
-          }
-        },
         "caption": {
           "type": "text",
           "settings": {
@@ -96,26 +91,13 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "loox-rating": {
-          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-          }
-        },
-        "659940f5-ce00-4d08-a786-b5da83c60724": {
-          "type": "shopify:\/\/apps\/ali-reviews-product-reviews\/blocks\/widget-star-rating\/bf2eea72-0400-4db1-8908-44b7418f9a88",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "vendor",
         "title",
-        "659940f5-ce00-4d08-a786-b5da83c60724",
-        "opinew-stars-plugin-product",
         "caption",
         "price",
-        "loox-rating",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -144,7 +126,7 @@
     "1693978876e0b18045": {
       "type": "apps",
       "blocks": {
-        "a7e409c7-b56d-4507-8cd4-b28a84d0ae22": {
+        "d8158cfd-4961-455b-9066-5775c5a3ab2b": {
           "type": "shopify:\/\/apps\/noor-app-pro\/blocks\/write_review\/f68c37e1-5095-46a2-a3be-836f36001a3c",
           "settings": {
             "write_review": "{{product}}",
@@ -153,7 +135,7 @@
         }
       },
       "block_order": [
-        "a7e409c7-b56d-4507-8cd4-b28a84d0ae22"
+        "d8158cfd-4961-455b-9066-5775c5a3ab2b"
       ],
       "settings": {
         "include_margins": true
@@ -258,73 +240,18 @@
     },
     "opinew-reviews-product-page-code": {
       "type": "apps",
-      "blocks": {
-        "opinew-reviews-widget": {
-          "type": "shopify:\/\/apps\/opinew-product-reviews-app\/blocks\/product-widget\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "opinew-reviews-widget"
-      ],
       "settings": {
         "include_margins": true
       }
     },
     "loox-product-reviews-app-section": {
       "type": "apps",
-      "blocks": {
-        "loox-product-reviews": {
-          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "hide_thumbnails": false,
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "loox-product-reviews"
-      ],
       "settings": {
         "include_margins": false
       }
     },
     "alireviews-section-6de2d29f-66ef-4561-a218-1090d4b9a36a": {
       "type": "apps",
-      "blocks": {
-        "2cf1be71-9e04-4aba-9027-e132dadd85d4": {
-          "type": "shopify:\/\/apps\/ali-reviews-product-reviews\/blocks\/widget-box\/bf2eea72-0400-4db1-8908-44b7418f9a88",
-          "settings": {
-            "name": "Review Box",
-            "vertical_alignment": "2",
-            "rating_color": "#1F1F1F",
-            "section_color": "#ffffff",
-            "primary_text_color": "#1F1F1F"
-          }
-        }
-      },
-      "block_order": [
-        "2cf1be71-9e04-4aba-9027-e132dadd85d4"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "reviewxpo-reviews-widget-app-section": {
-      "type": "apps",
-      "blocks": {
-        "5b4e417a-cc61-4ed7-a338-1249d8ae96e0": {
-          "type": "shopify:\/\/apps\/reviewxpo-product-reviews-app\/blocks\/revews-widget\/3e3d94fa-8b53-4134-942c-f7662dc9282f",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "5b4e417a-cc61-4ed7-a338-1249d8ae96e0"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -333,7 +260,6 @@
   "order": [
     "main",
     "1693978876e0b18045",
-    "reviewxpo-reviews-widget-app-section",
     "image-with-text",
     "multicolumn",
     "related-products",
