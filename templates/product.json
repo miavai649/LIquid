@@ -27,10 +27,24 @@
           "settings": {
           }
         },
+        "d2935d21-f19b-4bda-afc5-97f8612e782d": {
+          "type": "shopify:\/\/apps\/noor-app-pro\/blocks\/maxify_avg_rating\/f68c37e1-5095-46a2-a3be-836f36001a3c",
+          "settings": {
+            "maxify_avg_rating": "{{product}}",
+            "maxify_avg_rating_colour": "#ff0000"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "button"
+          }
+        },
+        "cc971dda-dc01-4374-bcd4-54536d7ce419": {
+          "type": "shopify:\/\/apps\/noor-app-pro\/blocks\/maxify_avg_rating\/f68c37e1-5095-46a2-a3be-836f36001a3c",
+          "settings": {
+            "maxify_avg_rating": "{{product}}",
+            "maxify_avg_rating_colour": "#ff0000"
           }
         },
         "quantity_selector": {
@@ -98,7 +112,9 @@
         "title",
         "caption",
         "price",
+        "d2935d21-f19b-4bda-afc5-97f8612e782d",
         "variant_picker",
+        "cc971dda-dc01-4374-bcd4-54536d7ce419",
         "quantity_selector",
         "buy_buttons",
         "description",
@@ -148,7 +164,7 @@
           "type": "shopify:\/\/apps\/noor-app-pro\/blocks\/maxify_review\/f68c37e1-5095-46a2-a3be-836f36001a3c",
           "settings": {
             "maxify_review": "{{product}}",
-            "maxify_review_colour": "#87CEEB"
+            "maxify_review_colour": "#87ceeb"
           }
         }
       },
