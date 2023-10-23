@@ -27,29 +27,22 @@
           "settings": {
           }
         },
-        "d2935d21-f19b-4bda-afc5-97f8612e782d": {
-          "type": "shopify:\/\/apps\/noor-app-pro\/blocks\/maxify_avg_rating\/f68c37e1-5095-46a2-a3be-836f36001a3c",
-          "settings": {
-            "maxify_avg_rating": "{{product}}",
-            "maxify_avg_rating_colour": "#ff0000"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "picker_type": "button"
           }
         },
-        "cc971dda-dc01-4374-bcd4-54536d7ce419": {
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "6896bff4-4e2a-46fa-984b-cc7a4bc7a55e": {
           "type": "shopify:\/\/apps\/noor-app-pro\/blocks\/maxify_avg_rating\/f68c37e1-5095-46a2-a3be-836f36001a3c",
           "settings": {
             "maxify_avg_rating": "{{product}}",
             "maxify_avg_rating_colour": "#ff0000"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
           }
         },
         "buy_buttons": {
@@ -112,10 +105,9 @@
         "title",
         "caption",
         "price",
-        "d2935d21-f19b-4bda-afc5-97f8612e782d",
         "variant_picker",
-        "cc971dda-dc01-4374-bcd4-54536d7ce419",
         "quantity_selector",
+        "6896bff4-4e2a-46fa-984b-cc7a4bc7a55e",
         "buy_buttons",
         "description",
         "collapsible-row-0",
@@ -141,6 +133,18 @@
     },
     "16959033870c4271e4": {
       "type": "apps",
+      "blocks": {
+        "e24ad942-f7a3-4933-bd51-241aa7103363": {
+          "type": "shopify:\/\/apps\/noor-app-pro\/blocks\/maxify_review\/f68c37e1-5095-46a2-a3be-836f36001a3c",
+          "settings": {
+            "maxify_review": "{{product}}",
+            "maxify_review_colour": "#87CEEB"
+          }
+        }
+      },
+      "block_order": [
+        "e24ad942-f7a3-4933-bd51-241aa7103363"
+      ],
       "settings": {
         "include_margins": true
       }
