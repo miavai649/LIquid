@@ -97,7 +97,7 @@
             "share_label": "Share"
           }
         },
-        "73ab7ac7-5bb0-40ee-8284-85faf6ec796c": {
+        "97f67e1f-eeb8-4cd7-8101-9e0dbc1ad711": {
           "type": "shopify:\/\/apps\/noor-theme-ext\/blocks\/dynamatics\/de19ad75-a14f-44cd-8ad9-8f9316c49a43",
           "settings": {
             "zone_id": ""
@@ -119,7 +119,7 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
-        "73ab7ac7-5bb0-40ee-8284-85faf6ec796c"
+        "97f67e1f-eeb8-4cd7-8101-9e0dbc1ad711"
       ],
       "settings": {
         "enable_sticky_info": true,
