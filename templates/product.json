@@ -96,12 +96,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "97f67e1f-eeb8-4cd7-8101-9e0dbc1ad711": {
-          "type": "shopify:\/\/apps\/noor-theme-ext\/blocks\/dynamatics\/de19ad75-a14f-44cd-8ad9-8f9316c49a43",
-          "settings": {
-            "zone_id": ""
-          }
         }
       },
       "block_order": [
@@ -118,8 +112,7 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share",
-        "97f67e1f-eeb8-4cd7-8101-9e0dbc1ad711"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -138,6 +131,17 @@
     },
     "16959033870c4271e4": {
       "type": "apps",
+      "blocks": {
+        "4039d27b-1959-4783-b51f-cea190e47ead": {
+          "type": "shopify:\/\/apps\/noor-theme-ext\/blocks\/dynamatics\/de19ad75-a14f-44cd-8ad9-8f9316c49a43",
+          "settings": {
+            "zone_id": ""
+          }
+        }
+      },
+      "block_order": [
+        "4039d27b-1959-4783-b51f-cea190e47ead"
+      ],
       "settings": {
         "include_margins": true
       }
