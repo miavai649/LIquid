@@ -177,6 +177,23 @@
         "include_margins": true
       }
     },
+    "1698237496eca27a0d": {
+      "type": "apps",
+      "blocks": {
+        "4c245bdf-98f4-42d7-9ef2-bdda495efb28": {
+          "type": "shopify:\/\/apps\/noor-theme-ext\/blocks\/dynamatics\/de19ad75-a14f-44cd-8ad9-8f9316c49a43",
+          "settings": {
+            "zone_id": ""
+          }
+        }
+      },
+      "block_order": [
+        "4c245bdf-98f4-42d7-9ef2-bdda495efb28"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -303,6 +320,7 @@
     "169598016703ece432",
     "1698224346b79d697c",
     "1698237173b848159b",
+    "1698237496eca27a0d",
     "image-with-text",
     "multicolumn",
     "related-products",
