@@ -129,6 +129,23 @@
         "padding_bottom": 12
       }
     },
+    "169823717734e39f34": {
+      "type": "apps",
+      "blocks": {
+        "add7f4b4-b940-4939-9ba3-c1f2bbaca4e9": {
+          "type": "shopify:\/\/apps\/noor-theme-ext\/blocks\/dynamatics\/de19ad75-a14f-44cd-8ad9-8f9316c49a43",
+          "settings": {
+            "zone_id": ""
+          }
+        }
+      },
+      "block_order": [
+        "add7f4b4-b940-4939-9ba3-c1f2bbaca4e9"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "1698235971529fb168": {
       "type": "apps",
       "settings": {
@@ -167,17 +184,6 @@
     },
     "1698237173b848159b": {
       "type": "apps",
-      "blocks": {
-        "efeb72d7-e0a1-41bf-9049-1bc7e8d580ff": {
-          "type": "shopify:\/\/apps\/noor-theme-ext\/blocks\/dynamatics\/de19ad75-a14f-44cd-8ad9-8f9316c49a43",
-          "settings": {
-            "zone_id": ""
-          }
-        }
-      },
-      "block_order": [
-        "efeb72d7-e0a1-41bf-9049-1bc7e8d580ff"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -300,6 +306,7 @@
   },
   "order": [
     "main",
+    "169823717734e39f34",
     "1698235971529fb168",
     "16959033870c4271e4",
     "1693978876e0b18045",
