@@ -41,8 +41,6 @@
         "6896bff4-4e2a-46fa-984b-cc7a4bc7a55e": {
           "type": "shopify:\/\/apps\/noor-app-pro\/blocks\/maxify_avg_rating\/f68c37e1-5095-46a2-a3be-836f36001a3c",
           "settings": {
-            "maxify_avg_rating": "{{product}}",
-            "maxify_avg_rating_colour": "#ff0000"
           }
         },
         "buy_buttons": {
@@ -98,6 +96,12 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "60637c8f-4287-4834-9344-1cfc19da43fb": {
+          "type": "shopify:\/\/apps\/noor-theme-ext\/blocks\/star_rating\/de19ad75-a14f-44cd-8ad9-8f9316c49a43",
+          "settings": {
+            "zone_id": "asdf"
+          }
         }
       },
       "block_order": [
@@ -114,7 +118,8 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share"
+        "share",
+        "60637c8f-4287-4834-9344-1cfc19da43fb"
       ],
       "settings": {
         "enable_sticky_info": true,
