@@ -131,17 +131,6 @@
     },
     "1698235971529fb168": {
       "type": "apps",
-      "blocks": {
-        "e54ba8ff-7af6-47cf-9c99-0dbff7716fd0": {
-          "type": "shopify:\/\/apps\/noor-theme-ext\/blocks\/dynamatics\/de19ad75-a14f-44cd-8ad9-8f9316c49a43",
-          "settings": {
-            "zone_id": ""
-          }
-        }
-      },
-      "block_order": [
-        "e54ba8ff-7af6-47cf-9c99-0dbff7716fd0"
-      ],
       "settings": {
         "include_margins": true
       }
