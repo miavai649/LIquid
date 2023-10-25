@@ -132,7 +132,7 @@
     "16959033870c4271e4": {
       "type": "apps",
       "blocks": {
-        "4039d27b-1959-4783-b51f-cea190e47ead": {
+        "83f9f0b9-44c8-4282-9c73-dc867db900e0": {
           "type": "shopify:\/\/apps\/noor-theme-ext\/blocks\/dynamatics\/de19ad75-a14f-44cd-8ad9-8f9316c49a43",
           "settings": {
             "zone_id": ""
@@ -140,7 +140,7 @@
         }
       },
       "block_order": [
-        "4039d27b-1959-4783-b51f-cea190e47ead"
+        "83f9f0b9-44c8-4282-9c73-dc867db900e0"
       ],
       "settings": {
         "include_margins": true
