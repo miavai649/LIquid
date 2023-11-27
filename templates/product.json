@@ -129,6 +129,22 @@
         "padding_bottom": 12
       }
     },
+    "1701060192ecdb6bb3": {
+      "type": "apps",
+      "blocks": {
+        "7f6c86d8-f0d5-4560-bdf0-6c792741a019": {
+          "type": "shopify:\/\/apps\/chakra-boilerplate\/blocks\/star_rating\/a2058046-9fe4-4d5b-9e93-be08a83e67f0",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "7f6c86d8-f0d5-4560-bdf0-6c792741a019"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "17010592314ea60481": {
       "type": "apps",
       "settings": {
@@ -313,6 +329,7 @@
   },
   "order": [
     "main",
+    "1701060192ecdb6bb3",
     "17010592314ea60481",
     "169823717734e39f34",
     "1698235971529fb168",
