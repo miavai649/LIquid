@@ -50,11 +50,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "5db527cd-ac83-4ebe-b897-203ae207878b": {
-          "type": "shopify:\/\/apps\/chakra-boilerplate\/blocks\/star_rating\/a2058046-9fe4-4d5b-9e93-be08a83e67f0",
-          "settings": {
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -112,7 +107,6 @@
         "quantity_selector",
         "6896bff4-4e2a-46fa-984b-cc7a4bc7a55e",
         "buy_buttons",
-        "5db527cd-ac83-4ebe-b897-203ae207878b",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
