@@ -260,22 +260,6 @@
       if (Shopify.designMode) {
         document.documentElement.classList.add('shopify-design-mode');
       }
-
-      let elements = document.getElementsByClassName('shopify-payment-button__button');
-  console.log('🚀 ~ file: star_rating.liquid:25 ~ elements:', elements);
-
-  Array.from(elements).forEach(function (element) {
-    element.addEventListener(
-      'click',
-      function (event) {
-        event.preventDefault();
-        event.stopPropagation();
-
-        console.log('Button clicked!');
-      },
-      { capture: true }
-    );
-  });
     </script>
   
 	{{ shop.metafields.loox["global_html_head"] }}
