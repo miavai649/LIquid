@@ -131,16 +131,6 @@
     },
     "17010592314ea60481": {
       "type": "apps",
-      "blocks": {
-        "c624b5c2-9060-49a6-898f-eab95f2048ec": {
-          "type": "shopify:\/\/apps\/chakra-boilerplate\/blocks\/star_rating\/a2058046-9fe4-4d5b-9e93-be08a83e67f0",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "c624b5c2-9060-49a6-898f-eab95f2048ec"
-      ],
       "settings": {
         "include_margins": true
       }
