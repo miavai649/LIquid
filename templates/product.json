@@ -50,6 +50,11 @@
             "show_gift_card_recipient": true
           }
         },
+        "0a1b1124-f1fd-439e-af8e-deefd36f710b": {
+          "type": "shopify:\/\/apps\/chakra-boilerplate\/blocks\/star_rating\/a2058046-9fe4-4d5b-9e93-be08a83e67f0",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -107,6 +112,7 @@
         "quantity_selector",
         "6896bff4-4e2a-46fa-984b-cc7a4bc7a55e",
         "buy_buttons",
+        "0a1b1124-f1fd-439e-af8e-deefd36f710b",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
@@ -131,16 +137,6 @@
     },
     "1701060192ecdb6bb3": {
       "type": "apps",
-      "blocks": {
-        "7f6c86d8-f0d5-4560-bdf0-6c792741a019": {
-          "type": "shopify:\/\/apps\/chakra-boilerplate\/blocks\/star_rating\/a2058046-9fe4-4d5b-9e93-be08a83e67f0",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "7f6c86d8-f0d5-4560-bdf0-6c792741a019"
-      ],
       "settings": {
         "include_margins": true
       }
